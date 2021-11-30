@@ -1,0 +1,42 @@
+[
+  {
+    "country": "Bangladesh",
+    "city": "Khulna",
+    "mintempin_c": "16.60",
+    "maxtempin_c": "30.50",
+    "avaragetempin_c": "22.67",
+    "mintempin_f": "61.90",
+    "maxtempin_f": "86.90",
+    "avaragetempin_f": "72.77"
+  },
+  {
+    "country": "Bangladesh",
+    "city": "Dhaka",
+    "mintempin_c": "18.67",
+    "maxtempin_c": "32.33",
+    "avaragetempin_c": "24.57",
+    "mintempin_f": "65.63",
+    "maxtempin_f": "90.20",
+    "avaragetempin_f": "76.27"
+  },
+  {
+    "country": "Bangladesh",
+    "city": "Khulna",
+    "mintempin_c": "16.60",
+    "maxtempin_c": "30.50",
+    "avaragetempin_c": "22.67",
+    "mintempin_f": "61.90",
+    "maxtempin_f": "86.90",
+    "avaragetempin_f": "72.77"
+  },
+  {
+    "country": "Bangladesh",
+    "city": "Khulna",
+    "mintempin_c": "16.60",
+    "maxtempin_c": "30.50",
+    "avaragetempin_c": "22.67",
+    "mintempin_f": "61.90",
+    "maxtempin_f": "86.90",
+    "avaragetempin_f": "72.77"
+  }
+]
