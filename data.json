@@ -38,5 +38,25 @@
     "mintempin_f": "61.90",
     "maxtempin_f": "86.90",
     "avaragetempin_f": "72.77"
+  },
+  {
+    "country": "Bangladesh",
+    "city": "Dhaka",
+    "mintempin_c": "18.67",
+    "maxtempin_c": "32.33",
+    "avaragetempin_c": "24.57",
+    "mintempin_f": "65.63",
+    "maxtempin_f": "90.20",
+    "avaragetempin_f": "76.27"
+  },
+  {
+    "country": "Germany",
+    "city": "Berlin",
+    "mintempin_c": "1.07",
+    "maxtempin_c": "6.10",
+    "avaragetempin_c": "3.93",
+    "mintempin_f": "33.93",
+    "maxtempin_f": "43.00",
+    "avaragetempin_f": "39.07"
   }
 ]
